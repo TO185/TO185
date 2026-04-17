@@ -49,4 +49,4 @@ I turn raw data into actionable insights. Passionate about finding patterns, tel
 
 ---
 
-📊 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
+📊 *"Without data, you're just another person with an opinion." *

@@ -20,7 +20,6 @@
 I turn **messy, raw data** into **clear, actionable insights** that drive business decisions. Whether it's cleaning millions of rows, finding hidden patterns, or building dashboards — I make data work for YOU.
 
 > 📊 *"Without data, you're just another person with an opinion."*  
-> — *W. Edwards Deming*
 
 ---
 
@@ -42,7 +41,6 @@ I turn **messy, raw data** into **clear, actionable insights** that drive busine
 ### Tools
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 </div>
 
